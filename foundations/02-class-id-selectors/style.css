@@ -1,0 +1,21 @@
+/*style css */
+.para-1, .para-2, .para-3{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+
+#div-1{
+    color: blue;
+    font-size: 36px;
+}
+
+.para-2{
+    font-size: 24px;
+}
+
+#div-2 {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: 400;
+}
